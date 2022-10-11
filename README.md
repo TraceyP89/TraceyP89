@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TraceyP89
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning python, and javascript.
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning web development using HTML and CSS on freeCodeCamp.
 - 💞️ I’m looking to collaborate on literally anything that can challenge me.
 - 📫 How to reach me aspiring.computer.science@gmail.com
 
