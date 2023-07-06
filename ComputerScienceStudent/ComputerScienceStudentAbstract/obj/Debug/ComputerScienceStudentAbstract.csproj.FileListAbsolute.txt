@@ -1,0 +1,11 @@
+C:\Users\trace_code89\source\repos\ComputerScienceStudent\ComputerScienceStudentAbstract\bin\Debug\ComputerScienceStudentAbstract.exe.config
+C:\Users\trace_code89\source\repos\ComputerScienceStudent\ComputerScienceStudentAbstract\bin\Debug\ComputerScienceStudentAbstract.exe
+C:\Users\trace_code89\source\repos\ComputerScienceStudent\ComputerScienceStudentAbstract\bin\Debug\ComputerScienceStudentAbstract.pdb
+C:\Users\trace_code89\source\repos\ComputerScienceStudent\ComputerScienceStudentAbstract\obj\Debug\ComputerScienceStudentAbstract.csproj.AssemblyReference.cache
+C:\Users\trace_code89\source\repos\ComputerScienceStudent\ComputerScienceStudentAbstract\obj\Debug\ComputerScienceStudentAbstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\trace_code89\source\repos\ComputerScienceStudent\ComputerScienceStudentAbstract\obj\Debug\ComputerScienceStudentAbstract.Form1.resources
+C:\Users\trace_code89\source\repos\ComputerScienceStudent\ComputerScienceStudentAbstract\obj\Debug\ComputerScienceStudentAbstract.Properties.Resources.resources
+C:\Users\trace_code89\source\repos\ComputerScienceStudent\ComputerScienceStudentAbstract\obj\Debug\ComputerScienceStudentAbstract.csproj.GenerateResource.cache
+C:\Users\trace_code89\source\repos\ComputerScienceStudent\ComputerScienceStudentAbstract\obj\Debug\ComputerScienceStudentAbstract.csproj.CoreCompileInputs.cache
+C:\Users\trace_code89\source\repos\ComputerScienceStudent\ComputerScienceStudentAbstract\obj\Debug\ComputerScienceStudentAbstract.exe
+C:\Users\trace_code89\source\repos\ComputerScienceStudent\ComputerScienceStudentAbstract\obj\Debug\ComputerScienceStudentAbstract.pdb
